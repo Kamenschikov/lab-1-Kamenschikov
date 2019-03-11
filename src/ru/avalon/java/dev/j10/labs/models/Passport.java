@@ -36,4 +36,10 @@ class Passport {
      * 5. Обеспечьте возможность использования класса за
      *    пределами пакета.
      */
+    
+    private String series;
+    private int numPas;
+    private String name;
+    private String surName;
+    private String fatherName;
 }
